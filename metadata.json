@@ -1,0 +1,6 @@
+{
+  "name": "Test Token",
+  "symbol": "TEST",
+  "description": "Test token.",
+  "image": "https://raw.githubusercontent.com/MrLouisDew/test-token/refs/heads/main/logo.png"
+}
